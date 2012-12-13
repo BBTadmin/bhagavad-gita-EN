@@ -1,0 +1,154 @@
+body	{
+			font-family:ScaGoudy;
+			}
+
+h1,h2,h3,h4
+			{
+  		font-family: ScaGoudy;
+  		text-align:center;
+  		}
+
+h3      {
+        margin-top: 0px;
+        margin-bottom: -8px;
+}
+
+
+p			{
+			font-family:ScaGoudy;
+            text-indent:1.8em;
+            }
+
+div.deva p  {
+			font-family:Indevr20, Indevr;
+			text-align:center;
+            text-indent:0em;
+            margin-bottom:0%;
+            margin-top:0%;
+            padding-bottom: .25%;
+}
+
+div.roman   p{
+			font-family:ScaGoudy;
+            font-style: italic;
+            text-indent:0em;
+			text-align:center;
+            text-indent:0em;
+            margin-bottom:0%;
+            margin-top:0%;
+            padding-bottom: .01%
+}
+div.roman   {
+            padding-top: 8px;
+}
+div.deva    {
+            margin-top: -18px;
+}
+
+div.quotes  p{
+
+            text-align: center;
+            text-indent:0em;
+            font-style: italic;
+            margin-bottom: -0%;
+            margin-top:-0%;
+}
+
+
+p.synonyms{
+            text-indent:0em;
+			text-align:center;
+			font-weight:bold;
+            }
+
+p.transliteration{
+            text-indent:0em;
+            margin-top: -16px;
+            }
+
+p.translation-head{
+			text-align:center;
+			font-weight:bold;
+            text-indent:0em;
+}
+
+p.translation-text{
+			font-weight:bold;
+            margin-top: -16px;
+}
+
+p.purport-head{
+            text-indent:0em;
+			text-align:center;
+			font-weight:bold;
+
+			}
+
+p.purport-text{
+            margin-top: -16px;
+            }
+
+div.center p{
+			text-align:center;
+            text-indent: 0em;
+}
+
+p.right{
+			text-align:center;
+			}
+p.right{
+			text-align:right;
+			}
+
+div.images, img{
+  		position:relative;
+  		height:100%;
+  		width:100%;
+  		text-align:center;
+}
+
+@font-face {
+  		font-family: "ScaGoudy";
+  		font-weight: normal;
+  		font-style: normal;
+  		src: url(fonts/SCAGRG__.TTF);
+			}
+@font-face {
+  		font-family: "ScaGoudy";
+  		font-weight: bold;
+  		font-style: normal;
+  		src: url(fonts/SCAGB___.TTF);
+			}
+@font-face {
+			font-family: "ScaGoudy";
+			font-weight: normal;
+			font-style: italic;
+  		src: url(fonts/SCAGI___.TTF);
+			}
+@font-face {
+			font-family: "Indevr";
+			font-weight: normal;
+			font-style: normal;
+  		src: url(fonts/indevr20.ttf);
+			}
+
+/*
+@font-face {
+  		font-family: "ScaGoudy";
+  		font-weight: normal;
+  		font-style: normal;
+  		src: url(res:///Data/fonts/SCAGRG__.ttf);
+}
+@font-face {
+  		font-family: "ScaGoudy";
+  		font-weight: bold;
+  		font-style: normal;
+  		src: url(res:///Data/fonts/SCAGB___.ttf);
+}
+@font-face	{
+			font-family: "Indevr";
+  		font-weight: normal;
+  		font-style: normal;
+  		src: url(res:///Data/fonts/indevr20.ttf);
+}
+*/

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+                 "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:16108100810881610810081088"/>
+    <meta name="hbv" content="hbv (www.hbv.com)"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Bhagavad Gita AS IT IS</text>
+  </docTitle>
+  <navMap>
+  
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Bhagavad Gita AS IT IS</text>
+      </navLabel>
+      <content src="title.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Setting The Scene</text>
+      </navLabel>
+      <content src="setting_the_scene.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="dedication.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="preface.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="introduction.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Chapter 01</text>
+      </navLabel>
+      <content src="BGchapter-01.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>Chapter 02</text>
+      </navLabel>
+      <content src="BGchapter-02.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>Chapter 03</text>
+      </navLabel>
+      <content src="BGchapter-03.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>Chapter 04</text>
+      </navLabel>
+      <content src="BGchapter-04.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>Chapter 05</text>
+      </navLabel>
+      <content src="BGchapter-05.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>Chapter 06</text>
+      </navLabel>
+      <content src="BGchapter-06.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>Chapter 07</text>
+      </navLabel>
+      <content src="BGchapter-07.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>Chapter 08</text>
+      </navLabel>
+      <content src="BGchapter-08.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>Chapter 09</text>
+      </navLabel>
+      <content src="BGchapter-09.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>Chapter 10</text>
+      </navLabel>
+      <content src="BGchapter-10.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-16" playOrder="16">
+      <navLabel>
+        <text>Chapter 11</text>
+      </navLabel>
+      <content src="BGchapter-11.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-17" playOrder="17">
+      <navLabel>
+        <text>Chapter 12</text>
+      </navLabel>
+      <content src="BGchapter-12.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-18" playOrder="18">
+      <navLabel>
+        <text>Chapter 13</text>
+      </navLabel>
+      <content src="BGchapter-13.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-19" playOrder="19">
+      <navLabel>
+        <text>Chapter 14</text>
+      </navLabel>
+      <content src="BGchapter-14.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-20" playOrder="20">
+      <navLabel>
+        <text>Chapter 15</text>
+      </navLabel>
+      <content src="BGchapter-15.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-21" playOrder="21">
+      <navLabel>
+        <text>Chapter 16</text>
+      </navLabel>
+      <content src="BGchapter-16.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-22" playOrder="22">
+      <navLabel>
+        <text>Chapter 17</text>
+      </navLabel>
+      <content src="BGchapter-17.xml"/>
+    </navPoint>
+    
+    <navPoint id="navpoint-23" playOrder="23">
+      <navLabel>
+        <text>Chapter 18</text>
+      </navLabel>
+      <content src="BGchapter-18.xml"/>
+    </navPoint>
+    </navMap>
+</ncx>

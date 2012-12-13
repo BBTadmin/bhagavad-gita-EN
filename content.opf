@@ -1,0 +1,89 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+  <metadata>
+    <dc:title>Bhagavad Gita AS IT IS</dc:title>
+    <dc:identifier id="bookid">urn:uuid:16108100810881610810081088</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <meta name="cover" content="cover-image"/>
+  <dc:creator xmlns:opf="http://www.idpf.org/2007/opf" opf:role="aut" opf:file-as="Swami, A.C. Bhaktivedanta">A.C. Bhaktivedanta Swami</dc:creator>
+<dc:identifier xmlns:opf="http://www.idpf.org/2007/opf" opf:scheme="ISBN"></dc:identifier>
+</metadata>
+
+  <manifest>
+  	<!-- Content Documents -->
+    <item id="cover" href="title.xml" media-type="application/xhtml+xml"/>
+    <item id="setting_the_scene" href="setting_the_scene.xml" media-type="application/xhtml+xml"/>
+    <item id="dedication" href="dedication.xml" media-type="application/xhtml+xml"/>
+    <item id="preface" href="preface.xml" media-type="application/xhtml+xml"/>
+    <item id="introduction" href="introduction.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-01" href="BGchapter-01.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-02" href="BGchapter-02.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-03" href="BGchapter-03.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-04" href="BGchapter-04.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-05" href="BGchapter-05.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-06" href="BGchapter-06.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-07" href="BGchapter-07.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-08" href="BGchapter-08.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-09" href="BGchapter-09.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-10" href="BGchapter-10.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-11" href="BGchapter-11.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-12" href="BGchapter-12.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-13" href="BGchapter-13.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-14" href="BGchapter-14.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-15" href="BGchapter-15.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-16" href="BGchapter-16.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-17" href="BGchapter-17.xml" media-type="application/xhtml+xml"/>
+    <item id="BGchapter-18" href="BGchapter-18.xml" media-type="application/xhtml+xml"/>
+
+
+    <!-- CSS Style Sheets -->
+    <item id="main-css" href="book.css" media-type="text/css"/>
+
+    <!-- Images -->
+    <item id="cover-image" href="images/cover.png" media-type="image/png"/>
+
+    <!-- NCX -->
+    <item id="ncx" href="toc.ncx" media-type="text/xml"/>
+
+    <!-- Fonts -->
+    <item id="indevr" href="fonts/indevr20.ttf" media-type="application/x-font-truetype"/>
+    <item id="ScaGoudyBold" href="fonts/SCAGB___.TTF" media-type="application/x-font-truetype"/>
+    <item id="ScaGoudyRegular" href="fonts/SCAGRG__.TTF" media-type="application/x-font-truetype"/>
+    <item id="ScaGoudyItalic" href="fonts/SCAGI___.TTF" media-type="application/x-font-truetype"/>
+
+  </manifest>
+
+  <spine toc="ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="setting_the_scene" linear="yes"/>
+    <itemref idref="dedication" linear="yes"/>
+    <itemref idref="preface" linear="yes"/>
+    <itemref idref="introduction" linear="yes"/>
+    <itemref idref="BGchapter-01" linear="yes"/>
+    <itemref idref="BGchapter-02" linear="yes"/>
+    <itemref idref="BGchapter-03" linear="yes"/>
+    <itemref idref="BGchapter-04" linear="yes"/>
+    <itemref idref="BGchapter-05" linear="yes"/>
+    <itemref idref="BGchapter-06" linear="yes"/>
+    <itemref idref="BGchapter-07" linear="yes"/>
+    <itemref idref="BGchapter-08" linear="yes"/>
+    <itemref idref="BGchapter-09" linear="yes"/>
+    <itemref idref="BGchapter-10" linear="yes"/>
+    <itemref idref="BGchapter-11" linear="yes"/>
+    <itemref idref="BGchapter-12" linear="yes"/>
+    <itemref idref="BGchapter-13" linear="yes"/>
+    <itemref idref="BGchapter-14" linear="yes"/>
+    <itemref idref="BGchapter-15" linear="yes"/>
+    <itemref idref="BGchapter-16" linear="yes"/>
+    <itemref idref="BGchapter-17" linear="yes"/>
+    <itemref idref="BGchapter-18" linear="yes"/>
+  </spine>
+
+  <!-- GUIDE Seems Optional -->
+  <!--
+  <guide>
+    <reference href="title.html" type="cover" title="Cover"/>
+  </guide>
+  -->
+  
+</package>
